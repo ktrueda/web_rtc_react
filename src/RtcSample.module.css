@@ -1,0 +1,27 @@
+.RtcStartComponentContainer {
+  margin: auto;
+  width: 80%;
+  height: 500px;
+}
+
+.Sdps {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Sdps > div {
+  width: 50%;
+}
+
+.Sdps textarea {
+  width: 100%;
+  height: 400px;
+}
+
+.Description {
+  width: 50%;
+  margin: auto;
+}
+.Description li {
+  text-align: left;
+}
